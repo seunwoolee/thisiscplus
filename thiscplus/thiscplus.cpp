@@ -5,6 +5,7 @@
 
 int main()
 {
+	cout << "HI" << endl;
 	CMyString strData;
 	strData.setString("Hello");
 	cout << strData.getString() << endl;
